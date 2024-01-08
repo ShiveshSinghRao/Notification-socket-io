@@ -13,7 +13,7 @@ export const posts = [
     username: "monica",
     fullname: "Monica gupta",
     userImg:
-      "https://images.pexels.com/photos/762020/pexels-photo-762020.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "https://drive.google.com/uc?export=download&id=102DKDK-qe9Yan3yoU63RqXx6WaD3c01l",
     postImg:
       "https://images.pexels.com/photos/3497624/pexels-photo-3497624.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
   },
