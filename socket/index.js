@@ -2,7 +2,7 @@ import { Server } from "socket.io";
 
 const io = new Server({
   cors: {
-    origin: "http://localhost:3000",
+    origin: "https://notification-app-g9zg.onrender.com",
   },
 });
 
