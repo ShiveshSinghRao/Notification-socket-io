@@ -4,7 +4,7 @@ export const posts = [
     username: "shivesh",
     fullname: "shivesh",
     userImg:
-      "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "https://drive.google.com/uc?export=download&id=13zRyeZPctidwya4E8OaYAijlTpBkXyj4",
     postImg:
       "https://images.pexels.com/photos/9730025/pexels-photo-9730025.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
   },
